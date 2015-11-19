@@ -1,6 +1,6 @@
 # BitsAndPieces
 
-This project contains 4 pieces of code.
+This project contains 4 sub programs.
 
 1. Factorial: Iterative (non-recursive) function to compute F(n) Recursive function to compute F(n)
 The printed output looks as follows
