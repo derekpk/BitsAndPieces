@@ -2,12 +2,9 @@
 
 This project contains 4 pieces of code.
 
-1. Factorial:
-    * Iterative (non-recursive) function to compute F(n) 
-	  * Recursive function to compute F(n)
+1. Factorial: Iterative (non-recursive) function to compute F(n) Recursive function to compute F(n)
 
-2. NGram:
-    * This program searches text within a file and finds the frequencies of sequences of words within that text
+2. NGram: This program searches text within a file and finds the frequencies of sequences of words within that text
 
 The printed output looks as follows
   
@@ -30,8 +27,19 @@ FREQUENCY : 1,       0.000	{French}FREQUENCY : 108,     0.051	{the}
 
 FREQUENCY : 6,       0.003	{I would like}
 
-3. MostFrequentBeforeAndAfter
+3. MostFrequentBeforeAndAfter: search for a word "the" and find the the word that appears most frequently before and after
+
+The printed output looks as follows
+
 ********** MostFrequentBeforeAndAfter *************
 Most Frequent before : of
 Most Frequent after : vote
-4. 
+
+
+4. StringIntegerSpeed
+
+The printed output looks as follows
+
+String.valueOf took an average of 0.132 us and ""+ took an average of 0.196 us
+String.valueOf took an average of 0.086 us and ""+ took an average of 0.146 us
+String.valueOf took an average of 0.086 us and ""+ took an average of 0.143 us
